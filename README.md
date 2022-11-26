@@ -1,3 +1,5 @@
+Original Code in https://github.com/ogbodotg/Veegil-Bank-Mobile-App.git
+
 ## Mobile Banking App built with Flutter & NodeJS.
 Create Account, Login, Transfer, Withdraw, Check Balance, view Transaction History.
 
