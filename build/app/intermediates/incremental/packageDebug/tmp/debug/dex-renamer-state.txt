@@ -1,0 +1,7 @@
+#Sat Nov 26 14:13:58 COT 2022
+base.1=C\:\\Users\\51925\\Desktop\\DartApk\\Veegil-Bank-Mobile-App\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\51925\\Desktop\\DartApk\\Veegil-Bank-Mobile-App\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
